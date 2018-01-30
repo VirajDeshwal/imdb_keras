@@ -1,0 +1,2 @@
+IMDB dataset from keras is analysed.
+Sequential Model is used with ReLU ( Rectifying Linear Unit) optimzer is used to optimize the loss.
